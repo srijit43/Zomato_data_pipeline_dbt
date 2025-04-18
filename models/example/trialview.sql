@@ -9,4 +9,4 @@ zomato.raw.restaurants_zomato
 group by country_code
 )
 
-Select * from location_country_count
+Select * from location_country_count;
